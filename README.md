@@ -2,12 +2,12 @@
 
 # TLDR
 
-User downloads our app and uses it to record video at festival (blogging,showing a performer,etc)
-We embed QR codes in creative ways in video (that will link the video recording to the user to the NFT to the Tweet)
-Any time someone retweets that user's video, they get a share of the pool of money that has developed from people purchasing downstream NFTs that contain clips of the Festival ==> (this will require a little bit of thought about how to develop a "pool" of funds. Easiest option is for sponsers to put together something like 1 BTC. More on this below [0]
-Festival sponsor, developers, artist, clip uploader person are all notified immediately and can optionally opt in (with a PRESET CUTOFF BUDGET) to purchase derivatives of all minted NFTs. 
-WHY would anyone want to mint Festival Coin? These NFTs are expected to grow in value as people realize their value. The value I imagine is short lived to the duration of the festival or at least it will peak shortly after the festival (or perhaps around some of the headliners as people expect many more people to view the headlines than lower tier artists [we could even play with the dynamics and promote lower tier artists])
-NFT Derivatives can be minted by users (regardless of whether they attended the festival or not) from within the webpage that the QR code in the video clip links to. That webpage will contain another QR code that will perform the "Derivative Minting Process" for the downstream user
+- User downloads our app and uses it to record video at festival (blogging,showing a performer,etc)
+- We embed QR codes in creative ways in video (that will link the video recording to the user to the NFT to the Tweet)
+- Any time someone retweets that user's video, they get a share of the pool of money that has developed from people purchasing downstream NFTs that contain clips of the Festival ==> (this will require a little bit of thought about how to develop a "pool" of funds. Easiest option is for sponsers to put together something like 1 BTC. More on this below [0]
+- Festival sponsor, developers, artist, clip uploader person are all notified immediately and can optionally opt in (with a PRESET CUTOFF BUDGET) to purchase derivatives of all minted NFTs. 
+- WHY would anyone want to mint Festival Coin? These NFTs are expected to grow in value as people realize their value. The value I imagine is short lived to the duration of the festival or at least it will peak shortly after the festival (or perhaps around some of the headliners as people expect many more people to view the headlines than lower tier artists [we could even play with the dynamics and promote lower tier artists])
+- NFT Derivatives can be minted by users (regardless of whether they attended the festival or not) from within the webpage that the QR code in the video clip links to. That webpage will contain another QR code that will perform the "Derivative Minting Process" for the downstream user
 
 > user attending concert (in this case, lola)
 >$ user purchases ticket, lodging, travel $
