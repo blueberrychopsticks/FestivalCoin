@@ -9,7 +9,7 @@
 - WHY would anyone want to mint Festival Coin? These NFTs are expected to grow in value as people realize their value. The value I imagine is short lived to the duration of the festival or at least it will peak shortly after the festival (or perhaps around some of the headliners as people expect many more people to view the headlines than lower tier artists [we could even play with the dynamics and promote lower tier artists])
 - NFT Derivatives can be minted by users (regardless of whether they attended the festival or not) from within the webpage that the QR code in the video clip links to. That webpage will contain another QR code that will perform the "Derivative Minting Process" for the downstream user
 
-> user attending concert (in this case, lola)
+> user attending concert 
 >$ user purchases ticket, lodging, travel $
 
 User spends a good amount of money on their ticket, their flights, their lodging, etc in hopes of having a memorable and safe experience at a festival with friends both old and unknown (as of yet)
