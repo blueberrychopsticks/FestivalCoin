@@ -1,4 +1,4 @@
-# TARGET DATE = Lolla = July 28
+# TARGET DATE = Beginning July
 
 # TLDR
 
